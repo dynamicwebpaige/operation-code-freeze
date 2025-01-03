@@ -31,10 +31,12 @@ Here's a look at the notebooks I've put together so far. More are on their way, 
 
 | Notebook # | Title                                  | Description                                                                                   |
 |------------|----------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1          | Buenos Aires and Montevideo            | The start of the journey: flying from San Francisco to Buenos Aires via Houston, and the first cruise stop in Montevideo.  |
-| 2          | Punta del Este and Puerto Madryn       | Visualizing the travel to our next cruise stops of Punta del Este and Puerto Madryn.        |
-| 3          | Falkland Islands                       | All about the remote Falkland Islands, including some Gentoo and King penguin sightings!  |
-| 4          | Christmas in Antarctica & Drake Passage | Experiencing Christmas in Antarctica, unexpected surrounding by icebergs, and transit through the Drake Passage.             |
+| 0          | Buenos Aires and Montevideo            | The start of the journey: flying from San Francisco to Buenos Aires via Houston, and the first cruise stop in Montevideo.  |
+| 1          | Punta del Este and Puerto Madryn       | Visualizing the travel to our next cruise stops of Punta del Este and Puerto Madryn.        |
+| 2          | Falkland Islands                       | All about the remote Falkland Islands, including some Gentoo and King penguin sightings!  |
+| 3          | Christmas in Antarctica & Drake Passage | Experiencing Christmas in Antarctica, unexpected surrounding by icebergs, and transit through the Drake Passage.             |
+| 4          | Cape Horn, Ushuaia, and Chilean Fjords  | Tierra del Fuego National Park, and stunning glacial features. Slartibartfast would approve. |
+| 5          | Puerto Madryn, Puerto Chacabuco, and Santiago | Sleepy and beautiful port cities in Chile, and then back to San Francisco. |
 
 ### Future Notebooks
 *   Additional notebooks will be added to cover the remaining legs of the journey. Stay tuned!
