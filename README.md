@@ -31,10 +31,10 @@ Here's a look at the notebooks I've put together so far. More are on their way, 
 
 | Notebook # | Title                                               | Dates                       | Description                                                                                                                                          |
 |------------|-----------------------------------------------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0          | Buenos Aires and Uruguay                           | December 15th - 19th        | The start of the journey: flying from San Francisco to Buenos Aires via Houston, and the first cruise stops in Uruguay                                |
-| 1          | Puerto Madryn and the Falkland Islands              | December 20th - 23rd        | Visualizing the travel to Puerto Madryn, and the Gentoo and King penguin sightings in the Falkland Islands!                                           |
-| 2          | Christmas in Antarctica & Drake Passage            | December 24th - 29th        | Experiencing Christmas in Antarctica, unexpected surrounding by icebergs, and transit through the Drake Passage.                                      |
-| 3          | Cape Horn, Ushuaia, Chilean Fjords, and Patagonian Ports | December 30th - January 4th | Tierra del Fuego National Park, stunning glacial features, and sleepy and beautiful port cities in Chile, and then back to San Francisco. Slartibartfast would approve. |
+| 0          | Buenos Aires and Uruguay                           | 12/15 - 12/19        | The start of the journey: flying from San Francisco to Buenos Aires via Houston, and the first cruise stops in Uruguay                                |
+| 1          | Puerto Madryn and the Falkland Islands              | 12/20 - 12/23        | Visualizing the travel to Puerto Madryn, and the Gentoo and King penguin sightings in the Falkland Islands!                                           |
+| 2          | Christmas in Antarctica & Drake Passage            | 12/24 - 12/29        | Experiencing Christmas in Antarctica, unexpected surrounding by icebergs, and transit through the Drake Passage.                                      |
+| 3          | Cape Horn, Ushuaia, Chilean Fjords, and Patagonian Ports | 12/30 - 1/4 | Tierra del Fuego National Park, stunning glacial features, and sleepy and beautiful port cities in Chile, and then back to San Francisco. Slartibartfast would approve. |
 
 ### Future Notebooks
 *   Additional notebooks will be added to cover the remaining legs of the journey. Stay tuned!
