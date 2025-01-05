@@ -29,13 +29,12 @@ Here's a quick rundown of some of the places visited along the way:
 
 Here's a look at the notebooks I've put together so far. More are on their way, so stay tuned!
 
-| Notebook # | Title                                  | Description                                                                                   |
-|------------|----------------------------------------|-----------------------------------------------------------------------------------------------|
-| 0          | Buenos Aires and Uruguay            | The start of the journey: flying from San Francisco to Buenos Aires via Houston, and the first cruise stop in Montevideo.  |
-| 1          | Puerto Madryn and the Falkland Islands       | Visualizing the travel to Puerto Madryn, and the Gentoo and King penguin sightings in the Falkland Islands! |
-| 2          | Christmas in Antarctica & Drake Passage | Experiencing Christmas in Antarctica, unexpected surrounding by icebergs, and transit through the Drake Passage.             |
-| 3          | Cape Horn, Ushuaia, and Chilean Fjords  | Tierra del Fuego National Park, and stunning glacial features. Slartibartfast would approve. |
-| 4          | Puerto Madryn, Puerto Chacabuco, and Santiago | Sleepy and beautiful port cities in Chile, and then back to San Francisco. |
+| Notebook # | Title                                               | Dates                       | Description                                                                                                                                          |
+|------------|-----------------------------------------------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0          | Buenos Aires and Uruguay                           | December 15th - 19th        | The start of the journey: flying from San Francisco to Buenos Aires via Houston, and the first cruise stops in Uruguay                                |
+| 1          | Puerto Madryn and the Falkland Islands              | December 20th - 23rd        | Visualizing the travel to Puerto Madryn, and the Gentoo and King penguin sightings in the Falkland Islands!                                           |
+| 2          | Christmas in Antarctica & Drake Passage            | December 24th - 29th        | Experiencing Christmas in Antarctica, unexpected surrounding by icebergs, and transit through the Drake Passage.                                      |
+| 3          | Cape Horn, Ushuaia, Chilean Fjords, and Patagonian Ports | December 30th - January 4th | Tierra del Fuego National Park, stunning glacial features, and sleepy and beautiful port cities in Chile, and then back to San Francisco. Slartibartfast would approve. |
 
 ### Future Notebooks
 *   Additional notebooks will be added to cover the remaining legs of the journey. Stay tuned!
