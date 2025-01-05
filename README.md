@@ -2,7 +2,7 @@
 
 Hey there! Welcome to `operation-code-freeze`, where I'll be sharing my adventure from Buenos Aires, Argentina, all the way down to Antarctica (and back up through Santiago, Chile). This repo is a collection of [Google Colab](https://colab.google/) notebooks that document my cruise on the [Holland America](https://www.hollandamerica.com/) ship, the _Oosterdam_, from December 16th to January 6th - more or less during the holiday code freeze. 😄
 
-![](https://www.hollandamerica.com/content/dam/hal/maps/S6N22B/S6N22B_mobile_2x.jpg)
+[<img src="https://www.hollandamerica.com/content/dam/hal/maps/S6N22B/S6N22B_mobile_2x.jpg" width="50%"/>](image.png)
 
 You'll find all sorts of details in these notebooks: data visualizations of weather conditions, interactive Python maps of the journey, lots of pictures of penguins, and even some experiments using Google's latest Gemini 2.0 models. Oh, and did I mention penguins? This whole trip was inspired by those adorable little guys, and I've made sure to document all the penguin encounters along the way (including a checklist for the penguin species the _Oosterdam_ encountered).
 
